@@ -1,4 +1,5 @@
-baseURL = 'http://jaae.no/'
+#baseURL = 'jaae.no'
+baseURL = 'jaae.github.io'
 languageCode = 'no'
 title = 'Blogg'
 

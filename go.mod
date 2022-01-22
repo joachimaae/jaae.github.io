@@ -1,4 +1,4 @@
-module github.com/joachimaae/jaaeno
+module github.com/joachimaae/jaae.github.io
 
 go 1.17
 
