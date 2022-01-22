@@ -1,5 +1,5 @@
-#baseURL = 'jaae.no'
-baseURL = 'joachimaae.github.io'
+#baseURL = 'https://jaae.no/'
+baseURL = 'https://joachimaae.github.io/'
 languageCode = 'no'
 title = 'Blogg'
 
@@ -12,10 +12,10 @@ profilePicture = "images/profile.jpg"
 contentratio = 0.6
 #mainSections = []
 
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/joachimaae/"
+  [[params.socialIcons]]
+  icon = "fab fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/joachimaae/"
 
 [menu]
 
@@ -33,9 +33,9 @@ url = "https://www.linkedin.com/in/joachimaae/"
 
 
 # theme as hugo module
-theme = "github.com/lxndrblz/anatole"
+#theme = "github.com/lxndrblz/anatole"
 # theme as git submodule
-#theme = "anatole"
+theme = "anatole"
 
 summarylength = 10
 enableEmoji = true
