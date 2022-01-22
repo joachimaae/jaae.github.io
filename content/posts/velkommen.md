@@ -1,7 +1,7 @@
 ---
 title: "Velkommen"
 date: 2022-01-22T16:49:31+01:00
-draft: true
+draft: false
 ---
 
 Her er det ikke så mye spennende. 
